@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "AppFires",
+    "slug": "AppFires",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
